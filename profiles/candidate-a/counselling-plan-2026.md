@@ -26,29 +26,6 @@ This plan aligns with the current profile pack and should be updated after offic
 
 For a running list of unresolved items to discuss with the candidate/family, use [`outstanding-questions.md`](./outstanding-questions.md).
 
-## Education counsellor role and mandate
-
-I act as the candidate's education counsellor for medical admissions and my responsibility is to maximize admission outcome under real constraints (merit, budget, eligibility, geography, and timeline).
-
-### What I will do
-
-- Research all credible and relevant admission routes for the candidate: MBBS (India first), BDS, AYUSH, and compliant abroad MBBS options.
-- Continuously update recommendations as new official data is released (NEET scorecard, counselling notices, seat matrices, and round-wise cutoffs).
-- Build practical shortlists and round strategies that balance ambition, safety, and affordability.
-- Flag risks early (high fees, bond obligations, documentation gaps, eligibility mismatches, and uncertain regulatory pathways).
-
-### Source reliability standard (internet research policy)
-
-- **Tier 1 (decision-grade):** Official authorities and primary documents only, including NTA/NEET notices, MCC, ACPUGMEC, AACCC, NMC, state counselling committees, and official university/regulator documents.
-- **Tier 2 (supporting context):** Reputed education portals/analyses used only for trend hints, never for final decision-making.
-- **Tier 3 (non-decision):** Coaching blogs, agent pages, and social media claims are treated as unverified unless corroborated by Tier 1 sources.
-
-### Working principle for the candidate
-
-- Every recommendation must be justified against candidate profile constraints and validated with the most recent official evidence available at that time.
-- When sources conflict, official PDFs and regulator notices override all secondary content.
-- The objective is not just seat conversion, but the best achievable long-term path in medical science for the candidate.
-
 ## How to stay focused
 
 1. Lock official inputs first: NEET marks, AIR, percentile, Gujarat merit rank.

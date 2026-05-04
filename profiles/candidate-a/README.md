@@ -46,6 +46,22 @@ This is a candidate-facing summary of all counselling research completed so far 
    - AYUSH preference (if any)
    - Abroad 2026 go/no-go
 
+### Immediate execution checklist (next 3-7 days)
+
+- [ ] Keep NEET application login credentials and registered mobile/email ready.
+- [ ] Build a first-pass A/B/C preference draft from existing college files.
+- [ ] Prepare counselling document folder (ID, academic docs, domicile, photos/signature).
+- [ ] Decide one family decision owner for final choice locking.
+- [ ] Track official notices (NTA/MCC/ACPUGMEC/AACCC) daily until result and registration windows open.
+
+### Result Day Checklist (first 24 hours)
+
+- [ ] Download and save official NEET scorecard (PDF + screenshot backup).
+- [ ] Record marks, percentile, and AIR in [`academics.md`](./academics.md).
+- [ ] Reclassify options into realistic/stretch/backups using official prior cutoffs.
+- [ ] Update [`outstanding-questions.md`](./outstanding-questions.md) by resolving result-dependent items.
+- [ ] Freeze the first counselling preference order draft for upcoming registrations.
+
 ## Outstanding Questions to Resolve
 
 All open questions are maintained in:
