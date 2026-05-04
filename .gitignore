@@ -1,0 +1,5 @@
+# Private personally identifiable data vault
+private/
+
+# Optional defense-in-depth for local private notes
+*.private.md
