@@ -1,35 +1,66 @@
-# Candidate A — medical admissions reference pack (de-identified)
+# Candidate A Admissions Brief (Shareable)
 
-**Conversation-grounded facts and preferences** for **Candidate A** (male, Gujarat, General). In Cursor, **`@`-mention** this file or the profile folder for follow-up chats.
+This is a candidate-facing summary of all counselling research completed so far for the 2026 cycle.
 
-**Shared bookmarks:** [../../references/official-sources.md](../../references/official-sources.md)
+## Current Profile Snapshot
 
-## Files in this profile
+- Category: General (unreserved)
+- Domicile: Gujarat
+- Citizenship: Indian
+- Academic base: strong HSC performance (`604/700`)
+- NEET 2026: appeared; official marks/AIR pending
 
-| File | Contents |
-|------|----------|
-| [profile.md](./profile.md) | Identity, gender, category, domicile, counselling scope |
-| [academics.md](./academics.md) | Board results (HSC), NEET 2026 status and self-estimate |
-| [goals-and-options.md](./goals-and-options.md) | MBBS preferred; BDS & AYUSH kept open; India + abroad |
-| [operating-notes.md](./operating-notes.md) | How assistants should use this pack; privacy; update protocol |
-| [outstanding-questions.md](./outstanding-questions.md) | Living checklist for open decisions with candidate/family |
-| [counselling-plan-2026.md](./counselling-plan-2026.md) | Counselling roadmap, tiers, sources standard |
-| [gujarat-colleges.md](./gujarat-colleges.md) | Gujarat **MBBS / BDS** institute inventory; AYUSH pointers |
-| [mbbs-mumbai-pune-bengaluru.md](./mbbs-mumbai-pune-bengaluru.md) | **MBBS** lists: Mumbai belt, Pune metro, Bengaluru |
-| [egypt-cairo-medical-colleges.md](./egypt-cairo-medical-colleges.md) | **Egypt (Cairo metro):** faculties, contacts, **India (NMC)** validity framing |
-| [fee-living-reputation-matrix.md](./fee-living-reputation-matrix.md) | Per-college matrix: **Gujarat MBBS+BDS**, **Mumbai–Pune–Bengaluru lists**, **Egypt**; COL + sources |
+## Research Completed So Far
 
-## Last updated
+- Built a full counselling strategy in [`counselling-plan-2026.md`](./counselling-plan-2026.md), including MBBS-first pathway and structured backups.
+- Prepared college research sets for:
+  - Gujarat pathways: [`gujarat-colleges.md`](./gujarat-colleges.md)
+  - Mumbai/Pune/Bengaluru MBBS options: [`mbbs-mumbai-pune-bengaluru.md`](./mbbs-mumbai-pune-bengaluru.md)
+  - Egypt (Cairo) abroad options: [`egypt-cairo-medical-colleges.md`](./egypt-cairo-medical-colleges.md)
+- Consolidated affordability and comparison data in [`fee-living-reputation-matrix.md`](./fee-living-reputation-matrix.md).
+- Documented personal/strategic preferences in:
+  - [`profile.md`](./profile.md)
+  - [`academics.md`](./academics.md)
+  - [`goals-and-options.md`](./goals-and-options.md)
+- Created a live unresolved-decisions tracker: [`outstanding-questions.md`](./outstanding-questions.md).
 
-- **2026-05-04** — HSC PDF + NEET self-assessment; organized under `medical-research/`.
-- **2026-05-04** — Added [`gujarat-colleges.md`](./gujarat-colleges.md) (MBBS + BDS lists for counselling reference).
-- **2026-05-04** — Added [`mbbs-mumbai-pune-bengaluru.md`](./mbbs-mumbai-pune-bengaluru.md).
-- **2026-05-04** — Added [`egypt-cairo-medical-colleges.md`](./egypt-cairo-medical-colleges.md).
-- **2026-05-04** — Abroad scope: **English-medium only** (see [`goals-and-options.md`](./goals-and-options.md) + Egypt note §0).
-- **2026-05-04** — Added [`fee-living-reputation-matrix.md`](./fee-living-reputation-matrix.md) (ACPUGMEC **Gujarat MBBS** + **BDS rows**, **Maharashtra + Karnataka** institute tables with **V4Edu→DMER/KEA** verification ladder, **Egypt** USD bands).
-- **2026-05-04** — **Male applicant:** Pune **women-only** MBBS (Symbiosis) removed from lists + fee matrix footnote.
+## Decisions Already Locked
 
-## Primary document paths
+- 5-year total budget ceiling: up to `₹1,00,00,000` (for now)
+- Bond acceptance: `Depends`
+- Max acceptable bond duration: `1 year`
+- Geography: open to relocate anywhere in India and abroad
+- Accommodation: both hostel and rented acceptable
 
-- HSC PDF: `[REDACTED_LOCAL_PATH]/hsc-result.pdf`  
-  *Always confirm with the **printed board marksheet**.*
+## Immediate Next Steps (Priority)
+
+1. Capture official NEET result: marks, percentile, AIR.
+2. Add Gujarat merit rank and GUJCET metrics if used in counselling.
+3. Finalize annual tuition cap and loan appetite.
+4. Finalize counselling behavior:
+   - freeze vs upgrade risk approach
+   - minimum acceptable floor option
+   - parallel registration coverage (MBBS/BDS/AYUSH/MCC tracks as applicable)
+5. Finalize backup intent:
+   - BDS seriousness
+   - AYUSH preference (if any)
+   - Abroad 2026 go/no-go
+
+## Outstanding Questions to Resolve
+
+All open questions are maintained in:
+
+- [`outstanding-questions.md`](./outstanding-questions.md)
+
+Use that file as the live checklist during family discussions and mark items resolved with date.
+
+## Key Documents and Evidence
+
+- Planning anchor: [`counselling-plan-2026.md`](./counselling-plan-2026.md)
+- Official-source index: [`../../references/official-sources.md`](../../references/official-sources.md)
+- Candidate record files: [`profile.md`](./profile.md), [`academics.md`](./academics.md), [`goals-and-options.md`](./goals-and-options.md)
+
+## Notes
+
+- This repository is de-identified for public sharing.
+- Any personal identifiers/source documents are maintained separately in local private storage.
